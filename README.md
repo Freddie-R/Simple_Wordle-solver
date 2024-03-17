@@ -13,7 +13,7 @@ Files:
 7. average.py: Contains functions for calculating averages and statistical measures.
 8. Input.py: Contains functions for user input and interaction.
 9. scorept.py: Contains functions for scoring potential guesses based on various criteria.
-10. WordleSolver.py: The main program file that orchestrates the solving of Wordle.
+10. main.py: The main program file that orchestrates the solving of Wordle.
 
 Usage:
 1. Ensure all Python files are in the same directory.
